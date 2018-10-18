@@ -1,0 +1,34 @@
+﻿正在安装程序集“I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe”。
+受影响的参数是:
+   assemblypath = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe
+   logfile = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.InstallLog
+   logtoconsole = 
+正在安装服务 ProcessAlwaysUp...
+已成功安装服务 ProcessAlwaysUp。
+正在日志 Application 中创建 EventLog 源 ProcessAlwaysUp...
+正在提交程序集“I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe”。
+受影响的参数是:
+   assemblypath = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe
+   logfile = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.InstallLog
+   logtoconsole = 
+正在卸载程序集“I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe”。
+受影响的参数是:
+   assemblypath = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe
+   logfile = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.InstallLog
+   logtoconsole = 
+正在移除 EventLog 源 ProcessAlwaysUp。
+正在从系统中移除服务 ProcessAlwaysUp...
+已成功地从系统中移除服务 ProcessAlwaysUp。
+正在安装程序集“I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe”。
+受影响的参数是:
+   assemblypath = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe
+   logfile = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.InstallLog
+   logtoconsole = 
+正在安装服务 ProcessAlwaysUp...
+已成功安装服务 ProcessAlwaysUp。
+正在日志 Application 中创建 EventLog 源 ProcessAlwaysUp...
+正在提交程序集“I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe”。
+受影响的参数是:
+   assemblypath = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.exe
+   logfile = I:\MyProject\ProcessAlwaysUp\ProcessAlwaysUp\bin\Release\ProcessAlwaysUp.InstallLog
+   logtoconsole = 
